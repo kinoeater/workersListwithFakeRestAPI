@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Mustafa Yolcu",
+      "department": "openTAS",
+      "salary": "2500",
+      "id": 1
+    },
+    {
+      "name": "Pelin Batur",
+      "department": "HR",
+      "salary": "2400",
+      "id": 3
+    },
+    {
+      "name": "Eric Volkmann ",
+      "department": "IT",
+      "salary": "2450",
+      "id": 4
+    },
+    {
+      "name": "Hans Kurzgeschishte",
+      "department": "Cleaning",
+      "salary": "2300",
+      "id": 9
+    },
+    {
+      "name": "Kuptah allighth",
+      "department": "translator",
+      "salary": 2000,
+      "id": 15
+    }
+  ]
+}

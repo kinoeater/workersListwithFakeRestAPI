@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+}
+
+.card {
+  background: linear-gradient(
+    90deg,
+    rgba(183, 236, 62, 0.6085784655659139) 100%,
+    rgba(135, 20, 117, 1) 100%,
+    rgba(255, 84, 197, 0.9251050762101716) 100%
+  );
+}
+.card-header {
+  font-weight: bold;
+}
+.btn {
+  font-weight: bold;
+}
